@@ -3,6 +3,8 @@
 Erick Villarroel
 Visualizacion de como quedo el trabajo
 
+ARCHIVOS AGREGADOS: INDEX/ESTILO/MAIN(Javascript)
+
 Agregado la funcionalidad Carrito de compras y el menu desplegado.
 ![image](https://github.com/ErickVillarroel1722/Deber11_DI_Villarroel.E/assets/117743333/352540cb-3c34-4f82-aa44-85df5a5df9f6)
 
